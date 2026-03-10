@@ -41,19 +41,4 @@ AWS (EC2, S3, Lambda, VPC, EventBridge, CloudWatch), Docker, Linux, Git, GitHub
 
 ---
 
-
-## 📂 Projects
-
-### 1. Jab-We-Talk (Real-Time Chat Application)
-**Technologies:** Node.js, Express.js, MongoDB, Socket.io, JWT, EJS, JavaScript, CSS  
-**Features:** Instant messaging, typing indicators, message status, active user counts, random chat mode, optimized DB operations, fully responsive UI  
-**Demo:** [jabwetalk.onrender.com](https://jabwetalk.onrender.com)  
-**GitHub:** [jabWeTalk](https://github.com/anshuu23/jabWeTalk)  
-
-### 2. Video Streaming Platform
-**Technologies:** React, Node.js, TypeScript, Express, PostgreSQL, Prisma ORM, Tailwind CSS, FFmpeg, AWS S3, AWS SQS, Docker, Render, Vercel, JWT, Multer  
-**Features:** Adaptive streaming (HLS), secure S3 uploads, automatic video transcoding (720p/480p/360p), chunked delivery, video quality selector, JWT Auth, recommendations  
-**Demo:** [Video Streaming App](https://video-streaming-app-frontend-ten.vercel.app)  
-**GitHub:** [videoStreamingAppfrontend](https://github.com/anshuu23/videoStreamingAppfrontend)  
-
 ⭐ If you like my work, feel free to follow me on GitHub!
