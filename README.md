@@ -41,15 +41,6 @@ AWS (EC2, S3, Lambda, VPC, EventBridge, CloudWatch), Docker, Linux, Git, GitHub
 
 ---
 
-## 🎓 Education
-
-**BBA (Computer Applications)** — KK Wagh College, Nashik  
-*June 2022 – April 2025* | SGPA: 8.33  
-
-**Higher Secondary (Commerce)** — K.J Somiya College, Kopargaon  
-*June 2021 – April 2022* | Percentage: 83%  
-
----
 
 ## 📂 Projects
 
@@ -64,15 +55,5 @@ AWS (EC2, S3, Lambda, VPC, EventBridge, CloudWatch), Docker, Linux, Git, GitHub
 **Features:** Adaptive streaming (HLS), secure S3 uploads, automatic video transcoding (720p/480p/360p), chunked delivery, video quality selector, JWT Auth, recommendations  
 **Demo:** [Video Streaming App](https://video-streaming-app-frontend-ten.vercel.app)  
 **GitHub:** [videoStreamingAppfrontend](https://github.com/anshuu23/videoStreamingAppfrontend)  
-
----
-
-## 📫 Contact Me
-- **Email:** anshumj321@gmail.com  
-- **Phone:** +91 9665735337  
-- **GitHub:** [github.com/anshuu23](https://github.com/anshuu23)  
-- **LinkedIn:** [linkedin.com/in/anshu-joshi](https://linkedin.com/in/anshu-joshi)  
-
----
 
 ⭐ If you like my work, feel free to follow me on GitHub!
