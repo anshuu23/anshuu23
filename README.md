@@ -24,14 +24,11 @@ AWS (EC2, S3, Lambda, VPC, EventBridge, CloudWatch), Docker, Linux, Git, GitHub
 ## 💼 Experience
 
 **Backend Developer** — Sparklink Media & Services Pvt Ltd, Mumbai  
-*Dec 2025 – Present*  
+*Sept 2025 – Present*  
 - Developed and maintained backend APIs using Node.js and TypeScript  
 - Managed AWS cloud infrastructure (EC2, S3, Lambda, VPC, EventBridge, CloudWatch)  
 - Implemented real-time features using WebSockets and WebRTC  
 - Built WhatsApp event notification workflows for automated messaging  
-
-**Backend Developer Intern** — Sparklink Media & Services Pvt Ltd, Mumbai  
-*Sept 2025 – Dec 2025*  
 - Developed admin dashboard features to manage users, events, and data  
 - Integrated Firebase push notifications for real-time alerts  
 - Implemented SMS notification system using Infobip API  
